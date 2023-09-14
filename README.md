@@ -1,5 +1,5 @@
 <div align=center>
-   <img width="400" src="D:\KKINI_Project\kkini\KakaoTalk_20230906_153156499.png" />   
+   <img width="400" src="https://github.com/ProjectKinni/kkini/issues/1#issue-1895626630" />   
 </div>
 
 <h3 align=center>👥 Team KKINI 👥</h3>
